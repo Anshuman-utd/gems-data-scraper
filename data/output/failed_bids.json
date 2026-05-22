@@ -1,7 +1,0 @@
-[
-    {
-        "bid_id": "GEM/2026/B/7557312",
-        "url": "https://bidplus.gem.gov.in/bidding/bid/getSinglePacketResultView/9348604",
-        "error": "Page.goto: net::ERR_ABORTED at https://bidplus.gem.gov.in/bidding/bid/getSinglePacketResultView/9348604\nCall log:\n  - navigating to \"https://bidplus.gem.gov.in/bidding/bid/getSinglePacketResultView/9348604\", waiting until \"domcontentloaded\"\n"
-    }
-]
