@@ -69,9 +69,7 @@ gem-procurement-scraper/
 │   ├── bid_result.py         # Buyer metadata and technical evaluation extraction
 │   ├── evaluation.py         # Financial evaluation parsing and vendor merging
 │   └── cleaner.py            # Pandas-based cleaning, validation, and anomaly flagging
-│
-├── logs/                     # System execution logs
-├── .env.example              # Environment variable templates
+│                   
 ├── requirements.txt          # Python dependencies
 ├── main.py                   # Master orchestration script
 └── README.md                 # Project documentation
