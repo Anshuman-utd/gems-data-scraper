@@ -21,8 +21,8 @@ logs/
 *.log
 
 # Output files (optional)
-data/output/*.csv
-data/output/*.json
+data/output/screenshots/
+data/output/failed_bids.json
 
 # OS files
 .DS_Store
